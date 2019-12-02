@@ -8,3 +8,5 @@ By using this code you agree with the following points:
 
 - You commit to cite our paper (above) in publications where you use this code.
 
+The website http://www.opensources.co/ that we reference in our paper is no longer accessible. A copy of their list of news outlets is available here: https://github.com/alexbovet/opensources
+
