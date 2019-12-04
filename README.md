@@ -8,5 +8,7 @@ By using this code you agree with the following points:
 
 - You commit to cite our paper (above) in publications where you use this code.
 
+The dataset containing the retweet networks and the tweet ids of the tweets used in the article is available here: http://www-levich.engr.ccny.cuny.edu/~hernanlab/uploads/tweet_ids_dataset.zip (see https://hmakse.ccny.cuny.edu/twitter-analysis/).
+
 The website http://www.opensources.co/ that we reference in our paper is no longer accessible. A copy of their list of news outlets is available here: https://github.com/alexbovet/opensources
 
