@@ -12,3 +12,7 @@ The dataset containing the retweet networks and the tweet ids of the tweets used
 
 The website http://www.opensources.co/ that we reference in our paper is no longer accessible. A copy of their list of news outlets is available here: https://github.com/alexbovet/opensources
 
+## Collective Influence algorithm
+
+To use compute the Collective Influence ranking of nodes in the retweet networks you must first compile the cython code with : `python setup.py build_ext --inplace`
+
