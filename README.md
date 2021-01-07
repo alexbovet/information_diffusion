@@ -14,5 +14,5 @@ The website http://www.opensources.co/ that we reference in our paper is no long
 
 ## Collective Influence algorithm
 
-To use compute the Collective Influence ranking of nodes in the retweet networks you must first compile the cython code with : `python setup.py build_ext --inplace`
+To compute the Collective Influence ranking of nodes in the retweet networks you must first compile the cython code with : `python setup.py build_ext --inplace`
 
